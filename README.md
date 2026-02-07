@@ -40,11 +40,11 @@ CleanSlate is engineered for modularity and performance, strictly following the 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Rushanth-K/CleanSlate.git](https://github.com/Rushanth-K/CleanSlate.git)
+    git clone https://github.com/rushk2004/CleanSlate.git
     ```
 2.  **Open in Xcode:** Launch `CleanSlate.xcodeproj`.
 3.  **Disable Sandbox:** To allow CleanSlate to manage other processes, go to **Signing & Capabilities** and remove the **App Sandbox**.
-4.  **Run:** Hit `Cmd + R` and take control of your RAM.
+4.  **Run:** Hit `Cmd + R`
 
 ---
 
@@ -53,4 +53,3 @@ CleanSlate is engineered for modularity and performance, strictly following the 
 This is an open-source project by **Rushanth Kalaiarasan**. Feel free to fork, open issues, or submit pull requests to help make CleanSlate even better.
 
 ---
-*Created with ❤️ for the macOS Developer Community.*
